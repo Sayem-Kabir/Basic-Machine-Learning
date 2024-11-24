@@ -1,0 +1,1 @@
+Using all models with the help of a simple function

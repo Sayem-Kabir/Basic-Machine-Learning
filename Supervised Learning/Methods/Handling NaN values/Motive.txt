@@ -1,0 +1,1 @@
+Check for NaN values and handling a NaN value
